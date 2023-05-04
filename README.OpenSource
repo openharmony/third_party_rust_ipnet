@@ -1,8 +1,8 @@
 [
   {
     "Name": "ipnet",
-    "License": "Apache License V2.0, MIT",
-    "License File": "LICENSE-APACHE, LICENSE-MIT",
+    "License": "Apache License V2.0",
+    "License File": "LICENSE-APACHE",
     "Version Number": "2.7.0",
     "Owner": "xuelei3@huawei.com",
     "Upstream URL": "https://github.com/krisprice/ipnet",
